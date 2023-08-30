@@ -1,84 +1,23 @@
 {
-  "Products":[
-           {
-           "id":1,
-            "title":" Men's Watch Amoled display",
-             "img":"https://n4.sdlcdn.com/imgs/k/n/x/Lorem-Silver-Metal-Analog-Men-SDL816193288-1-42adf.jpg",
-             "descrition":"Lorem Ipsum is simply dummy text .",
-             "price":3000,
-             "rating":1,
-             "qty":1,
-             "category":"titan"
-           },
-            {
-           "id":2,
-            "title":"Titan Talk Touch Screen Watch ",
-             "img":"https://staticimg.titan.co.in/Titan/Catalog/90156AP03_1.jpg?impolicy=pqmed&imwidth=640",
-              "descrition":"Lorem Ipsum is simply dummy text .",
-             "price":2999,
-             "rating":4,
-              "qty":1,
-              "category":"lorem"
-           },
-            {
-           "id":3,
-            "title":"Blue Dial Blue Leather Strap Watch",
-             "img":"https://staticimg.titan.co.in/Titan/Catalog/90105KL02_1.jpg?impolicy=pqmed&imwidth=640",
-              "descrition":"Lorem Ipsum is simply dummy .",
-             "price":4999,
-             "rating":2,
-              "qty":1,
-              "category":"lorem"
-           },
-            {
-           "id":4,
-            "title":"Workwear Black Dial Black Watch",
-           "img":"https://staticimg.titan.co.in/Titan/Catalog/1870NL01_1.jpg?impolicy=pqmed&imwidth=640",
-              "descrition":"Lorem Ipsum is simply dummy text .",
-             "price":1999,
-             "rating":3,
-              "qty":1,
-              "category":"titan"
-           },
-            {
-           "id":5,
-            "title":"exclusive dial branded lorem watch",
-           "img":"https://n1.sdlcdn.com/imgs/k/n/x/Lorem-Silver-Metal-Analog-Men-SDL864334734-1-612d1.jpg",
-              "descrition":"Lorem Ipsum is simply .",
-             "price":899,
-             "rating":4,
-              "qty":1,
-              "category":"titan"
-           },
-            {
-           "id":6,
-            "title":"Edge Ceramic Slimmest  Watch",
-           "img":"https://staticimg.titan.co.in/Titan/Catalog/1696QC03_1.jpg?impolicy=pqmed&imwidth=640",
-              "descrition":"Lorem Ipsum is simply ding and type.",
-             "price":999,
-             "rating":4.5,
-              "qty":1,
-              "category":"titan"
-           },
-          {
-          "id":7,
-            "title":"Fire bolt Rock Smartwatch",
-           "img":"https://staticimg.titan.co.in/Titan/Catalog/90137AP01_1.jpg?impolicy=pqmed&imwidth=640",
-              "descrition":"Lorem Ipsum is simply ding and type.",
-             "price":5999,
-             "rating":4.1,
-              "qty":1,
-              "category":"lorem"
-           },
-            {
-               "id":8,
-            "title":"ColorFit Pro 4 Alpha",
-           "img":"https://staticimg.titan.co.in/Titan/Catalog/90172AP01_1.jpg?impolicy=pqmed&imwidth=640",
-              "descrition":"Lorem Ipsum is simply ding and type.",
-             "price":3499,
-             "rating":4.4,
-              "qty":1,
-              "category":"lorem"
-            }
-          ]
+    "products":[
+        {
+            "id":1,
+            "title":"Vivo Z1 Pro",
+            "img":"https://www.techspot.com/images/products/2019/smartphones/org/2982278_b75292eb8e3cb19b92d58e6f30f06a05_640x640.jpg",
+            "about":"this is good product",
+            "price":2000,
+            "rating":5,
+            "qty":1
+        },
+        {
+            "id":2,
+            "title":"Vivo Z1 Pro",
+            "img":"https://www.techspot.com/images/products/2019/smartphones/org/2982278_b75292eb8e3cb19b92d58e6f30f06a05_640x640.jpg",
+            "about":"this is good product",
+            "price":2000,
+            "rating":5,
+            "qty":1
+        }
+
+    ]
 }
