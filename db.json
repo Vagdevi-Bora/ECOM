@@ -2,21 +2,11 @@
     "products":[
         {
             "id":1,
-            "title":"Vivo Z1 Pro",
-            "img":"https://www.techspot.com/images/products/2019/smartphones/org/2982278_b75292eb8e3cb19b92d58e6f30f06a05_640x640.jpg",
-            "about":"this is good product",
-            "price":2000,
-            "rating":5,
-            "qty":1
+            "title":"Vivo Z1 Pro"
         },
         {
-            "id":2,
-            "title":"Vivo Z1 Pro",
-            "img":"https://www.techspot.com/images/products/2019/smartphones/org/2982278_b75292eb8e3cb19b92d58e6f30f06a05_640x640.jpg",
-            "about":"this is good product",
-            "price":2000,
-            "rating":5,
-            "qty":1
+           "id":2,
+           "title":"paani"
         }
 
     ]
