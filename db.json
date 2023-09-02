@@ -2,11 +2,83 @@
     "products":[
         {
             "id":1,
-            "title":"Vivo Z1 Pro"
+            "title":"Vivo Z1 Pro",
+            "price":20000,
+            "rating":4.5,
+            "image":"https://techvorm.com/wp-content/uploads/2019/07/5-1.png",
+            "about":"The vivo Z1 Pro is an excellent choice if design is your primary consideration. The phone combines a beautiful colorway with a punch-hole camera to create a best-in-class design "
         },
         {
            "id":2,
-           "title":"paani"
+           "title":"oppo",
+           "price":10000,
+           "rating":4,
+           "image":"https://images-na.ssl-images-amazon.com/images/I/8197B8uCdgL._AC_SL1500_.jpg",
+           "about":"Oppo was founded in 2004, with its first products focusing on the audio devices market. The company has continued to keep a finger in the audio and home theater pie"
+        },
+        {
+            "id":3,
+            "title":"Vinatge-Rolex",
+            "price":"4000",
+            "rating":4.6,
+            "image":"https://www.gentlemansgazette.com/wp-content/uploads/2014/10/Vintage-Rolex-Watch.jpg",
+            "about":"These watches are often characterized by their unique design features, materials, and craftsmanship, which reflect the era in which they were produced"
+        },
+        {
+            "id":4,
+            "title":"Tablemate",
+            "price":1200,
+            "rating":4.4,
+            "image":"http://ecx.images-amazon.com/images/I/611E0l38ORL._SL1500_.jpg",
+            "about":"tablemate is usefull for daily purpose."
+        },
+        {
+            "id":5,
+            "title":"earbuds",
+            "price":3099,
+            "rating":3.9,
+            "image":"https://i0.wp.com/img.talkandroid.com/uploads/2020/12/Mpow-M12-Wireless-Earbuds.jpg",
+            "about":"Mpow-M12-Wireless-EarBuds wireless earbuds."
+        },
+        {
+            "id":6,
+            "title":"Mathematic Book",
+            "price":299,
+            "rating":4.8,
+            "image":"https://booksatbp.com/wp-content/uploads/2020/08/MATH-SORIANO-BOOK-COVER-Front-1.jpg",
+            "about":"This books helps in understanding basics of mathematics."
+        },
+        {
+            "id":7,
+            "title":"Scince Book",
+            "price":399,
+            "rating":4,
+            "image":"https://rukminim1.flixcart.com/image/1664/1664/book/7/8/8/basic-science-for-class-8-e1-original-imadsu3rtmhyahwd.jpeg?q=90",
+            "about":"Scince is important for every one life in the world"
+        },
+        {
+            "id":8,
+            "title":"Paints",
+            "price":2999,
+            "rating":3.8,
+            "image":"https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2021/04/featured-image-types-of-paint.jpeg.jpg",
+            "about":"We provide you beautiful and colourfull paints."
+        },
+        {
+            "id":9,
+            "title":"Stainless-Steel Fridge",
+            "price":49999,
+            "rating":4.1,
+            "image":"https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2021/04/featured-image-types-of-paint.jpeg.jpg",
+            "about":"A refrigerator,colloquially fridge, is a commercical and home appliance consisting of a thermally insulated compartment."
+        },
+        {
+            "id":10,
+            "title":"LED-TV",
+            "price":18999,
+            "rating":4,
+            "image":"https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2021/04/featured-image-types-of-paint.jpeg.jpg",
+            "about":" the electronic delivery of moving images and sound from a source to a receiver."
         }
 
     ]
