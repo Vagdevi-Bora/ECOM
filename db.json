@@ -6,7 +6,7 @@
             "price":20000,
             "rating":4.5,
             "image":"https://techvorm.com/wp-content/uploads/2019/07/5-1.png",
-            "about":"The vivo Z1 Pro is an excellent choice if design is your primary consideration. The phone combines a beautiful colorway with a punch-hole camera to create a best-in-class design "
+            "about":"The vivo Z1 Pro is an excellent choice if design is your primary consideration. "
         },
         {
            "id":2,
@@ -14,7 +14,7 @@
            "price":10000,
            "rating":4,
            "image":"https://images-na.ssl-images-amazon.com/images/I/8197B8uCdgL._AC_SL1500_.jpg",
-           "about":"Oppo was founded in 2004, with its first products focusing on the audio devices market. The company has continued to keep a finger in the audio and home theater pie"
+           "about":"Oppo was founded in 2004, with its first products focusing on the audio devices market."
         },
         {
             "id":3,
@@ -22,8 +22,8 @@
             "price":"4000",
             "rating":4.6,
             "image":"https://www.gentlemansgazette.com/wp-content/uploads/2014/10/Vintage-Rolex-Watch.jpg",
-            "about":"These watches are often characterized by their unique design features, materials, and craftsmanship, which reflect the era in which they were produced"
-        },
+            "about":"These watches are often characterized by their unique design features, materials, and craftsmanship"      
+          },
         {
             "id":4,
             "title":"Tablemate",
